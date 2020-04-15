@@ -1,0 +1,47 @@
+<resources>
+
+    <!--Mobile App-->
+    <string name="app_name">My Application</string>
+    <string name="logo_name">BRICKZ.IN</string>
+    <string name="slogan_name">Smart Property Investment</string>
+    <string name="powered_by">Martwalls Private Limited</string>
+
+    <!--Strings for onBoarding Screen-->
+
+    <!--Titles-->
+    <string name="first_slide_title">BROWSE PREMIUM PROPERTIES</string>
+    <string name="second_slide_title">BUY PROPERTY SHARES TO INVEST</string>
+    <string name="third_slide_title">EARN MONTHLY RENTAL INCOMES</string>
+    <string name="fourth_slide_title">LONG TERM CAPITAL APPRECIATION</string>
+
+    <!--Description-->
+    <string name="first_slide_desc">Sign Up and Start Browsing our premium offerings and select the property that you would like to invest in.</string>
+    <string name="second_slide_desc">Invest now and become the fractional owner of the selected property by buying the shares accordingly.</string>
+    <string name="third_slide_desc">Once the property is totally funded you will start earning a monthly rental income as per your shares in the property.</string>
+    <string name="fourth_slide_desc">Assured Long Term Capital Appreciation. At any time you can sell your shares for a profit on our Brickz.IN resale platform.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+    <!-- Strings for Dashboard -->
+
+    <!-- Categories -->
+    <string name="invest">Invest</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+    <string name="rent">Rent</string>
+    <string name="grouping">Grouping</string>
+
+    <!-- Titles & Descriptions -->
+    <string name="featured_properties">Featured Properties</string>
+    <string name="featured_property_description">The featured properties have the top demand in town!</string>
+    <string name="most_viewed_properties">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">View All</string>
+
+
+</resources>
